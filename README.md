@@ -1,2 +1,2 @@
-# Wheel
-Your personal AI handicapper
+# Module
+An example multi function module hosted by Runloop
